@@ -1,0 +1,29 @@
+[
+	{
+		"name": "CAFETERIA",
+		"desc": "Conformacion de Equipos",
+		"img": "/imgs/zones/cafe.png",
+		"link": "https://ingenieria.unal.edu.co/tpi/index.php/24propuestas",
+		"target": "_blank"
+	},
+	{
+		"name": "REUNIONES",
+		"desc": "Webinars para todos",
+		"img": "/imgs/zones/reun.png",
+		"link": "/zones/webinar"
+	},
+	{
+		"name": "LOBBY",
+		"desc": "Tus tareas inician aqui",
+		"img": "/imgs/zones/lobby.png",
+		"link": "/zones/lobby",
+		"type": "twover"
+	},
+	{
+		"name": "ASESORES",
+		"desc": "Resuelve tus dudas",
+		"img": "/imgs/zones/asesor.png",
+		"link": "/zones/src/asesor",
+		"type": "twohor"
+	}
+]

@@ -1,0 +1,99 @@
+{
+	"pisos": [
+		"Selecciona un piso",
+		"Piso 1: Ambientación",
+		"Piso 2: Conceptualización",
+		"Piso 3: Ideación",
+		"Piso 4: Diseño + Innovación",
+		"Piso 5: Prototipado",
+		"Piso 6: Sala de Juntas"
+	],
+	"dos": {
+		"1" : {
+			"entrega": [
+				["ACTA DE COMPROMISO", "https://campus.virtual.unal.edu.co/mod/assign/view.php?id=700189"]
+			],
+			"reto": [
+			]
+		},
+		"2" : {
+			"entrega": [
+				["PREGUNTA ESENCIAL", "https://campus.virtual.unal.edu.co/mod/assign/view.php?id=701073"]
+			],
+			"reto": [
+				["TALLER DE ÉTICA", "https://campus.virtual.unal.edu.co/mod/assign/view.php?id=745401"],
+				["PREGUNTAS CONVERSATORIO HABILIDADES BLANDAS", "https://campus.virtual.unal.edu.co/mod/assign/view.php?id=745626"],
+				["PREGUNTAS CONVERSATORIO TECNOLOGÍA Y SOCIEDAD", "https://campus.virtual.unal.edu.co/mod/assign/view.php?id=745684"],
+				["PREGUNTAS CONVERSATORIO ECONOMÍA DEL CONOCIMIENTO", "https://campus.virtual.unal.edu.co/mod/assign/view.php?id=745688"],
+				["PREGUNTAS CONVERSATORIO DISEÑO Y ERGONOMÍA", "https://campus.virtual.unal.edu.co/mod/assign/view.php?id=745692"]
+			]
+		},
+		"3" : {
+			"entrega": [
+				["POSIBLES SOLUCIONES / INFOGRAFIA", "https://campus.virtual.unal.edu.co/mod/assign/view.php?id=700231"]
+			],
+			"reto": [
+				["ENTREGABLE ASUNTOS DE GÉNERO","https://campus.virtual.unal.edu.co/mod/assign/view.php?id=755593"]
+			]
+		},
+		"4" : {
+			"entrega": [
+				["PROBLEMA / Diseño y Prototipo", "https://campus.virtual.unal.edu.co/mod/assign/view.php?id=701160"],
+				["Avance del trabajo Escrito", "https://campus.virtual.unal.edu.co/mod/assign/view.php?id=700251"],
+				["Evaluacion de Desempeños", "https://campus.virtual.unal.edu.co/mod/assign/view.php?id=700274"]
+			],
+			"reto": [
+				["PREGUNTAS CONVERSATORIO TECNOLOGÍAS TRL","https://campus.virtual.unal.edu.co/mod/assign/view.php?id=760436"],
+				["PREGUNTAS CONVERSATORIO INNOVACIÓN PARA EL SECTOR RURAL","https://campus.virtual.unal.edu.co/mod/assign/view.php?id=760440"],
+				["PREGUNTAS CONVERSATORIO DISEÑO","https://campus.virtual.unal.edu.co/mod/assign/view.php?id=760444"],
+				["PREGUNTAS CONVERSATORIO ERGONOMÍA","https://campus.virtual.unal.edu.co/mod/assign/view.php?id=760449"]
+			]
+		},
+		"5": {},
+		"6": {}
+	},
+	"cuatro": {
+		"1" : {
+			"entrega": [
+				["ACTA DE COMPROMISO", "https://campus.virtual.unal.edu.co/mod/assign/view.php?id=700426"]
+			],
+			"reto": [
+			]
+		},
+		"2" : {
+			"entrega": [
+				["PREGUNTA ESENCIAL", "https://campus.virtual.unal.edu.co/mod/assign/view.php?id=701074"]
+			],
+			"reto": [
+				["TALLER DE ÉTICA", "https://campus.virtual.unal.edu.co/mod/assign/view.php?id=745402"],
+				["PREGUNTAS CONVERSATORIO HABILIDADES BLANDAS", "https://campus.virtual.unal.edu.co/mod/assign/view.php?id=745627"],
+				["PREGUNTAS CONVERSATORIO TECNOLOGÍA Y SOCIEDAD", "https://campus.virtual.unal.edu.co/mod/assign/view.php?id=745685"],
+				["PREGUNTAS CONVERSATORIO ECONOMÍA DEL CONOCIMIENTO", "https://campus.virtual.unal.edu.co/mod/assign/view.php?id=745689"],
+				["PREGUNTAS CONVERSATORIO DISEÑO Y ERGONOMÍA", "https://campus.virtual.unal.edu.co/mod/assign/view.php?id=745693"]
+			]
+		},
+		"3" : {
+			"entrega": [
+				["POSIBLES SOLUCIONES / INFOGRAFIA", "https://campus.virtual.unal.edu.co/mod/assign/view.php?id=700465"]
+			],
+			"reto": [
+				["ENTREGABLE ASUNTOS DE GÉNERO","https://campus.virtual.unal.edu.co/mod/assign/view.php?id=755594"]
+			]
+		},
+		"4" : {
+			"entrega": [
+				["PROBLEMA / Diseño y Prototipo", "https://campus.virtual.unal.edu.co/mod/assign/view.php?id=701161"],
+				["Avance del trabajo Escrito", "https://campus.virtual.unal.edu.co/mod/assign/view.php?id=700485"],
+				["Evaluacion de Desempeños", "https://campus.virtual.unal.edu.co/mod/assign/view.php?id=700506"]
+			],
+			"reto": [
+				["PREGUNTAS CONVERSATORIO TECNOLOGÍAS TRL","https://campus.virtual.unal.edu.co/mod/assign/view.php?id=760437"],
+				["PREGUNTAS CONVERSATORIO INNOVACIÓN PARA EL SECTOR RURAL","https://campus.virtual.unal.edu.co/mod/assign/view.php?id=760441"],
+				["PREGUNTAS CONVERSATORIO DISEÑO","https://campus.virtual.unal.edu.co/mod/assign/view.php?id=760445"],
+				["PREGUNTAS CONVERSATORIO ERGONOMÍA","https://campus.virtual.unal.edu.co/mod/assign/view.php?id=760450"]
+			]
+		},
+		"5": {},
+		"6": {}
+	}
+}

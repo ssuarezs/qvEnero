@@ -1,0 +1,62 @@
+[
+	{
+		"no": 10,
+		"nombre": "La experiencia: Banco de Herramientas",
+		"fecha": "17-Diciembre 2021",
+		"video": "4cZFfwjyuBk"
+	},
+	{
+		"no": 9,
+		"nombre": "Los terrenos desconocidos: materia prima del cambio",
+		"fecha": "10-Diciembre 2021",
+		"video": "tBc6ohOAfjU"
+	},
+	{
+		"no": 8,
+		"nombre": "La Pasion: el mapa de los innovadores",
+		"fecha": "03-Diciembre 2021",
+		"img": "./imgs/noti/9.jpg",
+		"video": "xjHP8tPvBsY"
+	},
+	{
+		"no": 7,
+		"fecha": "26-Noviembre 2021",
+		"img": "./imgs/news_logo.png",
+		"video": "tl6AaqqyrSQ"
+	},
+	{
+		"no": 6,
+		"fecha": "19-Noviembre 2021",
+		"video": "Mtz92lwd9Gs"
+	},
+	{
+		"no": 5,
+		"fecha": "12-Noviembre 2021",
+		"video": "cgKLuTxNsVE"
+	},
+	{
+		"no": 4,
+		"fecha": "05-Noviembre 2021",
+		"video": "s1dIgi50Wic"
+	},
+	{
+		"no": 3,
+		"fecha": "29-Octubre 2021",
+		"video": "TUDKij3AXuc"
+	},
+	{
+		"no": 2,
+		"fecha": "20-Octubre 2021",
+		"video": "toumedldx-c"
+	},
+	{
+		"no": 1,
+		"fecha": "11-Octubre 2021",
+		"video": "KpILuChm-ko"
+	},
+	{
+		"no": 0,
+		"fecha": "4-Octubre 2021",
+		"video": "HnVqU8tOAGg"
+	}
+]

@@ -1,0 +1,74 @@
+.weekDay {
+		width: 2em;
+		font-size: .8em;
+		font-weight: bold;
+		text-align: center;
+		margin-bottom: .4em;
+}
+.weekDay:hover {
+    cursor: none;
+}
+
+.evenDot {
+    top: 10%; 
+		right: 0;
+    position: absolute;
+    border-radius: 5px;
+    background: red;
+    height: .4em;
+    width: .4em;
+}
+
+li {
+    position: relative;
+    display: flex;
+    border-radius: 1em;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 1em;
+    margin: .0em .2em;
+    height: 1.8em;
+    width: 1.8em;
+}
+li:hover {
+    cursor: pointer;
+}
+
+.header {
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 10px;
+}
+
+.btns {
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btns button {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    margin: 0 5px;
+    background: white;
+    font-size: 1em;
+    border: none;
+    transition: .3s;
+}
+.btns button:hover {
+    transform: scale(1.08);
+    cursor: pointer;
+    color: blue;
+}
+
+ol {
+    padding: 0;
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+}
+
+

@@ -1,0 +1,58 @@
+{
+	"titles": [
+		["WEBINARS","EN INNOVACION TECNOLOGICA Y EMPRENDIMIENTO ","2021-2"],
+		["WEBINARS 2021-1","DE INTERES PARA EL ","PISO 3: IDEACION"]
+	],
+	"2021s2": [
+		[
+			{
+				"n": 2,
+				"name": "Pasos clave para emprender con exito",
+				"expo": "Luis Felipe Batero",
+				"date": "24 Noviembre 2021",
+				"link": {
+					"dos": "https://campus.virtual.unal.edu.co/mod/url/view.php?id=700383",
+					"cuatro": "https://campus.virtual.unal.edu.co/mod/url/view.php?id=700612"
+				},
+				"state": "pass"
+			},
+			{
+				"n": 1,
+				"name": "Innovación en iluminación y alumbrado",
+				"expo": "Mario Quiroga",
+				"date": "17 Noviembre 2021",
+				"link": {
+					"dos": "https://campus.virtual.unal.edu.co/mod/url/view.php?id=700382",
+					"cuatro": "https://campus.virtual.unal.edu.co/mod/url/view.php?id=700611"
+				},
+				"state": "pass"
+			}
+		]
+	],
+	"2021s1" : [
+		[
+			{
+				"n": "a2",
+				"name": "Crea una propuesta de valor desde el cliente y encuentra recursos para financiarla.",
+				"expo": "Competir en el mercado requiere de múltiples aspectos fundamentales y la planificación detallada de la idea de negocio",
+				"date": "2021-1",
+				"link": {
+					"dos": "",
+					"cuatro": ""
+				},
+				"state": "pass"
+			},
+			{
+				"n": "a1",
+				"name": "Contexto de innovación y economía circular",
+				"expo": "Conoce el la posición de Colombia en el panorama internacional de la Ciencia, Tecnología e Innovación",
+				"date": "2021-1",
+				"link": {
+					"dos": "https://campus.virtual.unal.edu.co/mod/url/view.php?id=756468",
+					"cuatro": "https://campus.virtual.unal.edu.co/mod/url/view.php?id=756485"
+				},
+				"state": "pass"
+			}
+		]
+	]
+}

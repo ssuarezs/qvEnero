@@ -1,0 +1,41 @@
+{
+	"pisoMax": 4,
+	"piso": 4,
+	"group": "dos",
+	"prog" : {
+		"num": "55%",
+		"piso": "4to Piso",
+		"title": "Fase de Diseño + Innovación",
+		"desc": "Plantea un diseño y en marcha la creatividad",
+		"entrega": "Problema / Diseño y Prototipo"
+	},
+	"modal": {
+		"visibility": false,
+		"type": "none"
+	},
+	"lastUpdates": {
+		"general": [
+			"El piso 4 ya se encuentra habilitado para que revises todos los contenidos de este.",
+			"No olvides revisar los contenidos del calendario, el 12 de Enero es la entrega del primer trabajo escrito"
+		],
+		"etesc": [
+			"El entregable del Diseño y Prototipo",
+			"El entregable del avance de trabajo escrito",
+			"El entregable de la evaluacion de desempeños",
+			"4 retos nuevos para resolver"
+		],
+		"lobby": [
+			"El protocolo y la rubrica del Pitch - piso 4"
+		],
+		"asesor": [
+			"Los videos de los conversatorios del 6 de Diciembre: Prototipado, Laboratorio, Mercadeo",
+			"Encuesta de percepcion de los conversatorios"
+		],
+		"news": [
+			"17 de Diciembre - La experiencia: Banco de Herramientas"
+		],
+		"webbinars": [
+			"Pasos clave para emprender con Luis Felipe Batero"
+		]
+	}
+}

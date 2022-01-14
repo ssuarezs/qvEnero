@@ -1,0 +1,42 @@
+{
+	"qv" : [
+		"El juego Quanticon Valley es una apuesta de gamificacion desarrollada y propuesta por la Facultad de ingenieria. Participaron el programa innovaTE, grupo LIATER, el programa de innovacion y el Taller de Proyectos Interdisciplinarios (TPI).",
+		"Se basa en la experiencia de TPI, busca promover la motivacion y el desarrolla de habilidades blandas de sus participantes con el desarrollo de un proyecto. Damos una calurosa bienvenida y esperamos contar con cualquier aporte para la mejora continua."
+	],
+	"infoA" : [1,2,3,4],
+	"infoB" : [5,6,7,8,9,10],
+	"conoce": [
+		{
+			"title": "ETESC",
+			"img": "imgs/principal/etesc.png",
+			"obj": "En esta sección los estudiantes podrán realizar los entregables más importantes en el desarrollo de su proyecto. El desarrollo del juego se realiza avanzado de piso a piso, el etesc funciona como la estructura del juego avanzando por los pisos y siendo una guía del paso a paso para que la idea  del proyecto vaya madurando.",
+			"cont": "Encontrarán los entregables más importantes del proyecto, junto con retos que complementaran y apoyaran a que el proyecto avance y se desarrolle de la mejor manera posible.",
+			"imp": "Entregables y retos de piso.",
+			"link": "etesc"
+		},
+		{
+			"title": "Lobby",
+			"img": "imgs/principal/lobby.png",
+			"obj": "Los estudiantes podrán acceder a las principales guías, rúbricas y puntos de referencia, para saber cómo desarrollar las tareas en cada uno de los pisos del juego y cómo serán calificados los entregables.",
+			"cont": "Protocolos, guías, rúbricas, ejemplos de los entregables y tareas por desarrollar.",
+			"imp": "En las rúbricas encontrarás una guía precisa de los requisitos que deben cumplir los entregables del proyecto, para asegurar una buena calidad.",
+			"link": "zones/lobby"
+		},
+		{
+			"title": "Asesores",
+			"img": "imgs/principal/asesores.png",
+			"obj": "En este espacio muchas de las dudas de los estudiantes pueden ser respondidas y encontraran contenido adicional para apoyar sus proyectos.",
+			"cont": "Conocimientos específicos sobre cómo desarrollar un problema, cómo hacer un pitch, conocimientos en prototipado, mercadeo, laboratorios, contacto con los asesores y objetos virtuales de aprendizaje (OVAs).",
+			"imp": "En esta sección también tendrán la oportunidad de conocer asesores que pueden apoyar en el desarrollo de los proyectos, y encontrar la forma de contactarlos.",
+			"link": "zones/src/asesor"
+		},
+		{
+			"title": "Webinars",
+			"img": "imgs/principal/webinars.png",
+			"obj": "Los estudiantes podrán encontrar conocimientos extras, para apoyar tanto el desarrollo de sus proyectos como su crecimiento profesional.",
+			"cont": "Encontraras Webinars enfocados a la innovación y el emprendimiento, conocimientos muy valiosos.",
+			"imp": "Podrás encontrar webinars relacionados con el piso del juego en el cual se encuentra el proyecto, Webinars pensados en apoyar el desarrollo del proyecto.",
+			"link": "zones/webinar"
+		}
+	]
+}

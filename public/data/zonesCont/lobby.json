@@ -1,0 +1,108 @@
+{
+	"hallFame" : {
+		"studio" : {
+			"dos": "https://datastudio.google.com/embed/u/0/reporting/1ec487f9-858c-40ad-ad85-dc3d3c361dfc/page/jPHdC",
+			"cuatro": "https://datastudio.google.com/embed/u/0/reporting/1f58bcb8-5dae-4cf5-83b0-7cb513760d2c/page/QnbdC"
+		},
+		"btns" : [ 
+			{"gr": "dos",    "name": "Horario 2-4"} ,
+			{"gr": "cuatro", "name": "Horario 4-6"} 
+		]
+	},
+	"dos": {
+		"1" : {
+			"ova": [
+				["Juego SALA DE ESCAPE", "https://campus.virtual.unal.edu.co/mod/lesson/view.php?id=700374"],
+				["Cronograma Interactivo", "https://campus.virtual.unal.edu.co/mod/page/view.php?id=701298"],
+				["Decalogo Del Mentor", "https://campus.virtual.unal.edu.co/mod/hvp/view.php?id=700168"],
+				["Comunicacion Eficaz", "https://campus.virtual.unal.edu.co/mod/hvp/view.php?id=700320"]
+			],
+			"pdf": [
+				["SYLLABUS - Libro Interactivo", "https://campus.virtual.unal.edu.co/mod/hvp/view.php?id=700372"]
+			],
+			"video": [],
+			"tool": []
+		},
+		"2" : {
+			"ova": [],
+			"pdf": [
+				["PROTOCOLO PITCH PISO 2","https://campus.virtual.unal.edu.co/mod/hvp/view.php?id=749093"],
+				["RUBRICA PITCH PISO 2","https://campus.virtual.unal.edu.co/mod/resource/view.php?id=749453&forceview=1"]
+			],
+			"video": [],
+			"tool": []
+		},
+		"3" : {
+			"ova": [
+				["INFOGRAFÍA INTERACTIVA DE EJEMPLO", "https://campus.virtual.unal.edu.co/mod/page/view.php?id=700227"]
+			],
+			"pdf": [
+				["GUÍA METODOLÓGICA INFOGRAFÍA", "https://campus.virtual.unal.edu.co/mod/hvp/view.php?id=700225"],
+				["GUÍA DE TRABAJO ESCRITO", "https://campus.virtual.unal.edu.co/mod/hvp/view.php?id=700249"],
+				["RÚBRICA DE INFOGRAFÍA","https://campus.virtual.unal.edu.co/mod/resource/view.php?id=700226"],
+				["RÚBRICA ASUNTOS DE GÉNERO","https://campus.virtual.unal.edu.co/mod/resource/view.php?id=755622"],
+				["RÚBRICA AVANCE DE TRABAJO ESCRITO","https://campus.virtual.unal.edu.co/mod/resource/view.php?id=700250"]
+			],
+			"video": [],
+			"tool": []
+		},
+		"4": {
+			"ova": [
+				["PROTOCOLO PITCH PISO 4","https://campus.virtual.unal.edu.co/mod/hvp/view.php?id=766985"]
+			],
+			"pdf": [
+				["RÚBRICA PITCH PISO 4","https://campus.virtual.unal.edu.co/mod/resource/view.php?id=767009"]
+			]
+		},
+		"6" : {
+		}
+	},
+	"cuatro": {
+		"1" : {
+			"ova": [
+				["Juego SALA DE ESCAPE", "https://campus.virtual.unal.edu.co/mod/lesson/view.php?id=700603"],
+				["Cronograma Interactivo", "https://campus.virtual.unal.edu.co/mod/page/view.php?id=701299"],
+				["Decalogo Del Mentor", "https://campus.virtual.unal.edu.co/mod/hvp/view.php?id=700405"],
+				["Comunicacion Eficaz", "https://campus.virtual.unal.edu.co/mod/hvp/view.php?id=700552"]
+			],
+			"pdf": [
+				["SYLLABUS - Libro Interactivo", "https://campus.virtual.unal.edu.co/mod/hvp/view.php?id=700601"]
+			],
+			"video": [],
+			"tool": []
+		},
+		"2" : {
+			"ova": [],
+			"pdf": [
+				["PROTOCOLO PITCH PISO 2","https://campus.virtual.unal.edu.co/mod/hvp/view.php?id=749094"],
+				["RUBRICA PITCH PISO 2","https://campus.virtual.unal.edu.co/mod/resource/view.php?id=749452&forceview=1"]
+			],
+			"video": [],
+			"tool": []
+		},
+		"3" : {
+			"ova": [
+				["INFOGRAFÍA INTERACTIVA DE EJEMPLO", "https://campus.virtual.unal.edu.co/mod/page/view.php?id=700461"]
+			],
+			"pdf": [
+				["GUÍA METODOLÓGICA INFOGRAFÍA", "https://campus.virtual.unal.edu.co/mod/hvp/view.php?id=700459"],
+				["GUÍA DE TRABAJO ESCRITO", "https://campus.virtual.unal.edu.co/mod/hvp/view.php?id=700483"],
+				["RÚBRICA DE INFOGRAFÍA","https://campus.virtual.unal.edu.co/mod/resource/view.php?id=700460"],
+				["RÚBRICA ASUNTOS DE GÉNERO","https://campus.virtual.unal.edu.co/mod/resource/view.php?id=755623"],
+				["RÚBRICA AVANCE DE TRABAJO ESCRITO","https://campus.virtual.unal.edu.co/mod/resource/view.php?id=700484"]
+			],
+			"video": [],
+			"tool": []
+		},
+		"4": {
+			"ova": [
+				["PROTOCOLO PITCH PISO 4","https://campus.virtual.unal.edu.co/mod/hvp/view.php?id=766986"]
+			],
+			"pdf": [
+				["RÚBRICA PITCH PISO 4","https://campus.virtual.unal.edu.co/mod/resource/view.php?id=767009"]
+			]
+		},
+		"6" : {
+		}
+	}
+}

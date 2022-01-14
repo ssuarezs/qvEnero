@@ -1,0 +1,16 @@
+[
+	{
+		"name": "OFICINAS",
+		"desc": "2-4 pm",
+		"link": "https://docs.google.com/spreadsheets/d/1nLoG42SGWYe4xi7BHpKh6goHHLkImDSj7XKUu0XjFU0/edit#gid=1528342584",
+		"img": "/imgs/office/btn.png",
+		"target": "_blank"
+	},
+	{
+		"name": "OFICINAS",
+		"desc": "4-6 pm",
+		"link": "https://docs.google.com/spreadsheets/d/1nLoG42SGWYe4xi7BHpKh6goHHLkImDSj7XKUu0XjFU0/edit#gid=23923283",
+		"img": "/imgs/office/btn.png",
+		"target": "_blank"
+	}
+]
